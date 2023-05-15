@@ -9,9 +9,6 @@ git commit -m "$msg"
 git push origin master
 git checkout deploy
 git reset --hard master
-if [ -d "$docs" ]; then
-  rm -r docs
-fi
 bundle exec jekyll build
 cp -r _site/* docs/
 git add .
