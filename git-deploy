@@ -13,7 +13,7 @@ if [ -d "$docs" ]; then
   rm -r docs
 fi
 bundle exec jekyll build
-mkdir docs/
+mkdir docs
 cp -r _site/* docs/
 git add .
 git commit -m "$msg"
