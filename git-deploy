@@ -8,7 +8,7 @@ git add .
 git commit -m "$msg"
 git push origin master
 git checkout deploy
-git rebase master
+git reset --hard master
 if [ -d "$docs" ]; then
   rm -r docs
 fi
