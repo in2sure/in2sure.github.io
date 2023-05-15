@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "Commit Message: " 
+read msg
+
+git checkout master
+git add .
+git commit -m "$msg"
+git push origin master
+git checkout deploy
+git rebase master
+bundle exec jekyll build
+cp -r _site/* docs/
+git add .
+git commit -m "$msg"
+git push origin deploy
+
+
