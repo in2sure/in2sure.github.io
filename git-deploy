@@ -4,6 +4,12 @@ echo "Commit Message: "
 read msg
 
 git checkout master
+if [ -d "docs" ]; then
+  rm -r docs
+fi
+if [ -d "_site" ]; then
+  rm -r _site
+fi
 git add .
 git commit -m "$msg"
 git push origin master
