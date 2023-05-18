@@ -1,7 +1,7 @@
 title: "In2Sure - Distributed Risk Management Foundation"
 email: "info@in2sure.com"
 description: >- # this means to ignore newlines until "baseurl:"
- In2Sure website
+ The world’s first science foundation to promote research, education, and applications of distributed technologies for risk management.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://in2sure.github.io" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 domain: in2sure.github.io 
