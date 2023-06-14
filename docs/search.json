@@ -1,0 +1,59 @@
+[
+  
+    {
+      "title"    : "Foundations and Applications of Decentralized Risk Sharing - FADeRiS 2023 @ KU Leuven",
+      "category" : "",
+      "tags"     : "risk management, decentralization, insurtech",
+      "url"      : "/faderis",
+      "date"     : "2023-05-15 09:37:13 -0500"
+    } ,
+  
+    {
+      "title"    : "Decentralized Insurance: Technical Foundation of Business Models",
+      "category" : "",
+      "tags"     : "insurance, decentralization, insurtech, fintech",
+      "url"      : "/dencentralized-insurance",
+      "date"     : "2023-04-25 09:37:13 -0500"
+    } ,
+  
+    {
+      "title"    : "Cost-Effectiveness, Fairness and Adverse Selection in Mutual Aid",
+      "category" : "",
+      "tags"     : "mutual aid, insurtech, adverse selection, risk sharing, information disclosure",
+      "url"      : "/cost-effectiveness-fairness-and-adverse-selection-in-mutual-aid",
+      "date"     : "2022-09-13 09:37:13 -0500"
+    } ,
+  
+    {
+      "title"    : "Multi-period Peer-to-Peer Risk Sharing",
+      "category" : "",
+      "tags"     : "risk sharing, p2p, insurance, mean-variance optimization, multi-period model, catastrophe risk pooling",
+      "url"      : "/multi-period-p2p-risk-sharing",
+      "date"     : "2022-04-06 09:37:13 -0500"
+    } ,
+  
+    {
+      "title"    : "A Unified Theory of Decentralized Insurance",
+      "category" : "",
+      "tags"     : "risk sharing, decentralization, risk pooling, risk transfer, p2p, insurance, takaful, mutual aid",
+      "url"      : "/a-unified-theory-of-decentralized-insurance",
+      "date"     : "2022-01-28 08:37:13 -0600"
+    } ,
+  
+    {
+      "title"    : "Peer-to-Peer Multi-Risk Insurance and Mutual Aid",
+      "category" : "",
+      "tags"     : "peer-to-peer, insurance, decentralization, disintermediation, mutual aid, law of large numbers, insurtech, fintech",
+      "url"      : "/p2p-multi-risk-insurance-and-mutual-aid",
+      "date"     : "2021-10-04 09:37:13 -0500"
+    } ,
+  
+    {
+      "title"    : "Peer-to-Peer Risk Sharing with an Application to Flood Risk Pooling",
+      "category" : "",
+      "tags"     : "peer-to-peer, insurance, risk sharing, Pareto optimality",
+      "url"      : "/p2p-risk-sharing-with-application-to-flood",
+      "date"     : "2021-02-18 08:37:13 -0600"
+    } 
+  
+]
